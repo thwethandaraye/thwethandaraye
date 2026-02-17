@@ -1,6 +1,6 @@
 ## Hi, I'm Thwe Thandar Aye 👋
-Computer Science Student
-Backend & Data Engineering Enthusiast  
+- Computer Science Student
+- Backend & Data Engineering Enthusiast  
 
 🔭 Building Python backend projects  
 🌱 Learning Data Structures & Algorithms (DSA) and SQL  
