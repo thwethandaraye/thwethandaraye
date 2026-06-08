@@ -2,7 +2,7 @@
 - Computer Science Student
 - Data Analytic and Engineering Enthusiast  
 
-🔭 Building Data Visualization projects with Python 
+🔭 Building Data Visualization projects with Python  
 🌱 Learning Data Structures & Algorithms (DSA) and SQL  
 👯 Open to beginner-friendly data collaboration  
 <!--
