@@ -1,10 +1,10 @@
 ## Hi, I'm Thwe Thandar Aye 👋
 - Computer Science Student
-- Backend & Data Engineering Enthusiast  
+- Data Analytic and Engineering Enthusiast  
 
-🔭 Building Python backend projects  
+🔭 Building Data Visualization projects with Python 
 🌱 Learning Data Structures & Algorithms (DSA) and SQL  
-👯 Open to beginner-friendly backend/data collaboration  
+👯 Open to beginner-friendly data collaboration  
 <!--
 **thwethandaraye/thwethandaraye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
